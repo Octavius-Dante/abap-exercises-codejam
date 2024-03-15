@@ -39,6 +39,13 @@ Here's an overview of the exercises in this CodeJam.
 </br>
 https://developers.sap.com/tutorials/abap-environment-create-s4hana-rap-business-events.html
 </br>
+</br>
+https://community.sap.com/t5/technology-blogs-by-sap/how-to-create-rap-business-events-in-sap-s-4hana-on-premise-2022/ba-p/13553312
+</br>
+</br>
+https://pages.community.sap.com/topics/abap/rap
+</br>
+</br>
 
 <!---
 ### Feedback
